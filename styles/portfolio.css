@@ -21,6 +21,21 @@
     padding: 18px 35px;
     border-radius: 5px;
     border: none;
+    
+    
+}
+.btn-secondary{
+    background-color: #FFF8F3;
+    border-radius: 5px;
+    border:1px solid #FD6E0A;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 30px;
+    color: #FD6E0A;
+    
+}
+.banner-btn{
+    margin-right: 30px;
 }
 .secondary-bg{
     background-color: #FFF8F3;
@@ -90,6 +105,9 @@ nav li a{
 }
 .banner-profile-pic{
     width: 580px;
+}
+.section-about{
+    background-color: white;
 }
 /* main styles */
 main{
